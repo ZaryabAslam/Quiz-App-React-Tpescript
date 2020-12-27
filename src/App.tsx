@@ -39,7 +39,7 @@ function App() {
   }
 
   if (!quiz.length)
-    return <h3>Loading.. </h3>
+    return <h3>Loading App... </h3>
 
   if(showResult){
     return (<div className="question-container result-container">
