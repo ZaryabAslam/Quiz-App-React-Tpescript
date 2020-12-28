@@ -53,7 +53,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Quiz App</h1>
+      <h2>Quiz App</h2>
       <QuestionCard
         options={quiz[currentStep].option}
         question={quiz[currentStep].question}

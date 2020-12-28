@@ -1,7 +1,7 @@
 .App{
     text-align: center;
 }
-.App > h1{
+.App > h2{
     text-shadow: 4px 2px 5px #917373;
 }
 .question-container {
